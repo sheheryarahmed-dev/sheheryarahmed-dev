@@ -28,7 +28,7 @@ Here are a few technologies 🔭 I'm currently working on with recently:
 
   - Python
   - Django
-  - Flask
+  - FastAPI
   - PostgreSQL
   - MySQL
   - JavaScript (ES6+)
