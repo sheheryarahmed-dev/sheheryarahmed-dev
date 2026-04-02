@@ -54,7 +54,8 @@
 
 ### 📫 Connect With Me
 - 📧 sheheryar.pk2@gmail.com  
-- 📱 +92-311-5879518  
+- 📱 +92-311-5879518
+- 🔗 LinkedIn: https://www.linkedin.com/in/sheheryar-ahmed-dev
 
 ---
 
