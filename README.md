@@ -74,7 +74,8 @@
 ### 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryarahmed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-by-language?username=sheheryarahmed-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheheryarahmed-dev&theme=tokyonight" />
 </p>
 
 ### 📫 Connect With Me
