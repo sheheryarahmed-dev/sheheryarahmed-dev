@@ -71,13 +71,6 @@
 </p>
 
 
-### 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-by-language?username=sheheryarahmed-dev&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheheryarahmed-dev&theme=tokyonight" />
-</p>
-
 ### 📫 Connect With Me
 - 📧 sheheryar.pk2@gmail.com  
 - 📱 +92-311-5879518
